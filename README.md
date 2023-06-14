@@ -19,6 +19,7 @@
 
 ![ps](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/fd0d4a41-de11-416a-adee-2625b38d01a9)
 ![figma](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/89d52942-de12-4d5b-aa01-83d67e7815ae)
+![icons8-visual-studio-code-2019-48](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/86963f36-65a7-4264-8c7d-1b5b739dab4c)
 
 
 ![https://www.codewars.com/users/olgamarkevich/](https://www.codewars.com/users/olgamarkevich/badges/large?logo=false)
