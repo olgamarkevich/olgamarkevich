@@ -14,6 +14,8 @@
 ![git](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/234177e8-2f62-4fa2-b0d2-abd149b846f0)
 ![icons8-webpack-64](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/23eed75e-8818-436a-8d27-ebb6c912cd52)
 ![icons8-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-48](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/f54c10e5-3ecd-4c13-8aac-ec9342f6e3a2)
+![icons8-npm-48](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/184c61b8-0162-4c84-b1a2-a604ca5c4d71)
+
 
 ![ps](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/fd0d4a41-de11-416a-adee-2625b38d01a9)
 ![figma](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/89d52942-de12-4d5b-aa01-83d67e7815ae)
