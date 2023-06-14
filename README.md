@@ -4,8 +4,9 @@
 
 ![html-5 (1)](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/887c29b6-311b-47c5-ad6b-4bb5487724a5)
 ![css-3](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/ce499413-77e4-41fe-9375-711fd62871fa)
-![js](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/d6eac3a1-0fba-45cf-9faa-96638be734f1)
 ![sass](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/5edd70f5-aa43-457b-8008-8697020780e4)
+![js](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/d6eac3a1-0fba-45cf-9faa-96638be734f1)
+
 
 
 ![react](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/f4a76f8a-7d68-4dc6-b910-ba4d0ed11324)
