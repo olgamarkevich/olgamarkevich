@@ -6,4 +6,6 @@
 ![css-3](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/ce499413-77e4-41fe-9375-711fd62871fa)
 ![js](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/d6eac3a1-0fba-45cf-9faa-96638be734f1)
 
+![react](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/f4a76f8a-7d68-4dc6-b910-ba4d0ed11324)
+
 ![https://www.codewars.com/users/olgamarkevich/](https://www.codewars.com/users/olgamarkevich/badges/large?logo=false)
