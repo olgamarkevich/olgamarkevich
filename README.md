@@ -4,4 +4,4 @@
 
 ![https://www.codewars.com/users/olgamarkevich/](https://www.codewars.com/users/olgamarkevich/badges/large?logo=false)
 
-![HtmlCssJavascript](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/47380006-4605-437c-8d8d-d336b6ecf377)
+![html-5](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/a6416f4c-899c-4e04-9b77-48456426a506)
