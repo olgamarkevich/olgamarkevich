@@ -10,5 +10,7 @@
 ![react](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/f4a76f8a-7d68-4dc6-b910-ba4d0ed11324)
 
 ![git](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/234177e8-2f62-4fa2-b0d2-abd149b846f0)
+![icons8-webpack-64](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/23eed75e-8818-436a-8d27-ebb6c912cd52)
+
 
 ![https://www.codewars.com/users/olgamarkevich/](https://www.codewars.com/users/olgamarkevich/badges/large?logo=false)
