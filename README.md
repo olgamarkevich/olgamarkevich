@@ -22,4 +22,3 @@
 ![icons8-visual-studio-code-2019-48](https://github.com/olgamarkevich/olgamarkevich/assets/46402735/86963f36-65a7-4264-8c7d-1b5b739dab4c)
 
 
-![https://www.codewars.com/users/olgamarkevich/](https://www.codewars.com/users/olgamarkevich/badges/large?logo=false)
